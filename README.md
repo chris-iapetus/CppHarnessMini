@@ -1,0 +1,2 @@
+# CppHarnessMini
+Quick testing getup.
